@@ -1,0 +1,10 @@
+C:\Users\Aytaç İpekel\Source\Repos\Borsa\Borsa\bin\Debug\Borsa.exe.config
+C:\Users\Aytaç İpekel\Source\Repos\Borsa\Borsa\bin\Debug\Borsa.exe
+C:\Users\Aytaç İpekel\Source\Repos\Borsa\Borsa\bin\Debug\Borsa.pdb
+C:\Users\Aytaç İpekel\Source\Repos\Borsa\Borsa\obj\Debug\Borsa.csprojAssemblyReference.cache
+C:\Users\Aytaç İpekel\Source\Repos\Borsa\Borsa\obj\Debug\Borsa.frmMain.resources
+C:\Users\Aytaç İpekel\Source\Repos\Borsa\Borsa\obj\Debug\Borsa.Properties.Resources.resources
+C:\Users\Aytaç İpekel\Source\Repos\Borsa\Borsa\obj\Debug\Borsa.csproj.GenerateResource.cache
+C:\Users\Aytaç İpekel\Source\Repos\Borsa\Borsa\obj\Debug\Borsa.csproj.CoreCompileInputs.cache
+C:\Users\Aytaç İpekel\Source\Repos\Borsa\Borsa\obj\Debug\Borsa.exe
+C:\Users\Aytaç İpekel\Source\Repos\Borsa\Borsa\obj\Debug\Borsa.pdb
